@@ -1,0 +1,41 @@
+Mon, 02 Aug 2021 12:48:50 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:48:50 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:48:50 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
+Mon, 02 Aug 2021 12:49:00 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:49:00 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:49:43 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:49:43 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:49:44 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:49:44 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:49:45 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
+Mon, 02 Aug 2021 12:50:13 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:50:13 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:50:14 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:50:14 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:50:14 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
+Mon, 02 Aug 2021 12:50:26 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:50:26 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:50:27 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:50:27 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:50:27 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
+Mon, 02 Aug 2021 12:50:34 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:50:34 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:51:17 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:51:17 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:51:18 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:51:18 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:51:18 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
+Mon, 02 Aug 2021 12:51:27 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:51:27 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:52:11 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:52:11 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:52:12 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:52:12 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:52:12 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
+Mon, 02 Aug 2021 12:52:24 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:52:24 +0530 [INFO] django.server basehttp.py log_message 161: "POST /schedule HTTP/1.1" 200 34
+Mon, 02 Aug 2021 12:53:24 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:53:24 +0530 [INFO] django.utils.autoreload autoreload.py trigger_reload 251: C:\Users\Soumya\Documents\AWS_instSchedular\instanceSchedular\views.py changed, reloading.
+Mon, 02 Aug 2021 12:53:25 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:53:25 +0530 [INFO] django.utils.autoreload autoreload.py run_with_reloader 637: Watching for file changes with StatReloader
+Mon, 02 Aug 2021 12:53:26 +0530 [INFO] botocore.credentials credentials.py load 1224: Found credentials in shared credentials file: ~/.aws/credentials
